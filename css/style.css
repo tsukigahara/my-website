@@ -1,8 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800&display=swap');
 
+html,
+body {
+    background-color: rgb(240, 240, 240);
+}
+
 * {
     font-family: 'Montserrat', sans-serif;
 }
+
+a {
+    color: rgb(55, 188, 255);
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: rgb(0, 142, 214);
+}
+
 
 h1 {
     font-size: 48px;
